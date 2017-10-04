@@ -1,0 +1,12 @@
+{
+  "name": "vuets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "vue": "^2.4.4",
+    "webpack": "^3.6.0"
+  }
+}
